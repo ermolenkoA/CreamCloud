@@ -2,4 +2,15 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="light_cream">#FFF9E1</color>
+    <color name="coffee">#2F1E0F</color>
+    <color name="dark_chocolate">#3E2723</color>
+    <color name="chocolate">#523634</color>
+    <color name="hot_chocolate">#896E69</color>
+    <color name="dark_gray">#333333</color>
+    <color name="cocoa">#301B28</color>
+    <color name="cotton">#F9F9FF</color>
+    <color name="melon">#FFA577</color>
+    <color name="pumpkin">#D55448</color>
+    <color name="toffee">#B6452C</color>
 </resources>
