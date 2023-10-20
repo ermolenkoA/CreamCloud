@@ -2,21 +2,29 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.CreamCloud" parent="Theme.AppCompat.DayNight.NoActionBar">
         <!-- Primary color -->
-        <item name="colorPrimary">@color/primary</item>
-        <item name="colorPrimaryVariant">@color/primary_light</item>
+        <item name="colorPrimary">@color/chocolate</item>
+        <item name="colorPrimaryVariant">@color/hot_chocolate</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary color -->
-        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="colorSecondary">@color/gray_alpha50</item>
+        <item name="colorSecondaryVariant">@color/light_gray_alpha50</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Accent color -->
         <item name="colorAccent">@color/coffee</item>
         <!-- Error color -->
         <item name="colorError">@color/toffee</item>
         <!-- Status bar color -->
-        <item name="android:statusBarColor">?attr/colorPrimary</item>
+        <item name="android:statusBarColor">@color/light_cream</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">@color/light_cream</item>
+        <item name="android:windowLightNavigationBar">true</item>
         <!-- Background color -->
-        <item name="colorOnBackground">@color/dark_gray</item>
+        <item name="backgroundColor">@color/light_cream</item>
         <item name="android:windowBackground">@color/light_cream</item>
+        <!-- On background color -->
+        <item name="colorOnBackground">@color/dark_gray</item>
+        <item name="hintTextColor">@color/light_gray</item>
     </style>
 
     <style name="Theme.CreamCloud" parent="Base.Theme.CreamCloud" />

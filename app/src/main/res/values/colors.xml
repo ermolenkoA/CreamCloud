@@ -3,14 +3,23 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="light_cream">#FFF9E1</color>
-    <color name="coffee">#2F1E0F</color>
+    <color name="cream">#E4D8A4</color>
+    <color name="dark_coffee">#120A02</color>
+    <color name="cappuccino">#352718</color>
+    <color name="coffee">#23160B</color>
     <color name="dark_chocolate">#3E2723</color>
     <color name="chocolate">#523634</color>
     <color name="hot_chocolate">#896E69</color>
+    <color name="gray">#5E5E5E</color>
+    <color name="light_gray">#888888</color>
     <color name="dark_gray">#333333</color>
+    <color name="gray_alpha50">#805E5E5E</color>
+    <color name="light_gray_alpha50">#80888888</color>
+    <color name="dark_gray_alpha40">#66333333</color>
     <color name="cocoa">#301B28</color>
-    <color name="cotton">#F9F9FF</color>
+    <color name="light_cotton">#C8C4BC</color>
+    <color name="cotton">#AAA8A3</color>
     <color name="melon">#FFA577</color>
-    <color name="pumpkin">#D55448</color>
+    <color name="pumpkin">#CF5E54</color>
     <color name="toffee">#B6452C</color>
 </resources>

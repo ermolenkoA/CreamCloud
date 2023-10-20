@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="CreamCloud.InfoTextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">@dimen/info_text_size</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textColor">?attr/colorOnBackground</item>
+    </style>
+
     <style name="CreamCloud.TitleTextView" parent="Widget.MaterialComponents.TextView">
         <item name="android:textSize">@dimen/title_text_size</item>
         <item name="android:fontFamily">@font/roboto_medium</item>
-        <item name="android:textColor">@color/coffee</item>1
+        <item name="android:textColor">?attr/colorAccent</item>
     </style>
+
+    <style name="CreamCloud.ErrorTextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">@dimen/error_text_size</item>
+        <item name="android:fontFamily">@font/roboto_light</item>
+        <item name="android:textColor">?attr/colorError</item>
+        <item name="android:text">@string/error</item>
+    </style>
+
+    <style name="CreamCloud.PhoneNumberTextField"
+        parent="Widget.AppCompat.EditText">
+        <item name="android:textSize">@dimen/phone_number_text_size</item>
+        <item name="android:fontFamily">@font/roboto_mono_light</item>
+        <item name="android:textColor">?attr/colorOnBackground</item>
+        <item name="android:textColorHint">?attr/hintTextColor</item>
+    </style>
+
+    <style name="CreamCloud.ConfirmButton"
+        parent="Widget.AppCompat.Button" >
+        <item name="android:background">@drawable/confirm_button</item>
+        <item name="android:textSize">@dimen/button_text_size</item>
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textColor">?attr/colorOnPrimary</item>
+    </style>
+
 </resources>

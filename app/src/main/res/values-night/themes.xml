@@ -1,7 +1,27 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.CreamCloud" parent="Theme.AppCompat.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <!-- Primary color -->
+        <item name="colorPrimary">@color/cappuccino</item>
+        <item name="colorPrimaryVariant">@color/coffee</item>
+        <item name="colorOnPrimary">@color/light_cotton</item>
+        <!-- Secondary color -->
+        <item name="colorSecondary">@color/dark_gray_alpha40</item>
+        <item name="colorSecondaryVariant">@color/gray_alpha50</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Accent color -->
+        <item name="colorAccent">@color/cream</item>
+        <!-- Error color -->
+        <item name="colorError">@color/pumpkin</item>
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/dark_coffee</item>
+        <!-- Navigation bar color -->
+        <item name="android:navigationBarColor">@color/dark_coffee</item>
+        <!-- Background color -->
+        <item name="backgroundColor">@color/dark_coffee</item>
+        <item name="android:windowBackground">@color/dark_coffee</item>
+        <!-- On background color -->
+        <item name="colorOnBackground">@color/light_cotton</item>
+        <item name="hintTextColor">@color/cotton</item>
     </style>
 </resources>
