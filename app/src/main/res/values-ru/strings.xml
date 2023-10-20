@@ -2,7 +2,12 @@
 <resources>
     <string name="app_name">CreamCloud</string>
     <string name="enter_number">Введите номер телефона</string>
+    <string name="enter_code">Введите полученный код</string>
     <string name="error">Сообщение об ошибке Сообщение об ошибке Сообщение об ошибке</string>
     <string name="confirm">Подтвердить</string>
     <string name="login">Войдите, чтобы зарабатывать баллы и делать заказы</string>
+    <string name="we_sent_code">Мы отправили код на номер %s</string>
+    <string name="incorrect_code">Неверный код</string>
+    <string name="if_you_have_not">Если вы не получили код, запросите новый через %d сек.</string>
+    <string name="get_new_code">Получить новый код</string>
 </resources>

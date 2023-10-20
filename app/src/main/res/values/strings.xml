@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">CreamCloud</string>
     <string name="enter_number">Enter phone number</string>
+    <string name="enter_code">Enter the code</string>
     <string name="default_number" translatable="false">+375 __ ___ __ __</string>
     <string name="error">Error message Error message Error message</string>
     <string name="confirm">Confirm</string>
     <string name="login">Login to earn points and make orders</string>
     <string name="hello_blank_fragment" translatable="false">hello_blank_fragment</string>
+    <string name="we_sent_code">We sent the code to %s</string>
+    <string name="incorrect_code">Incorrect code</string>
+    <string name="if_you_have_not">If you haven\'t received the code, request a new one after %d sec</string>
+    <string name="get_new_code">Get new code</string>
 </resources>
